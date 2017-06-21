@@ -1,3 +1,15 @@
+**FlexSlider**
+> *An awesome, fully responsive jQuery slider plugin.*
+
+https://github.com/woocommerce/FlexSlider
+
+
+**lightbox2**
+> *Lightbox is small javascript library used to overlay images on top of the current page. It's a snap to setup and works on all modern browsers.*
+
+https://github.com/lokesh/lightbox2
+
+
 **onScreen**
 > *A light library that does stuff when the matched elements enter or leave the viewport.*
 
