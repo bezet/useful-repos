@@ -12,6 +12,13 @@ https://github.com/lokesh/lightbox2
 
 &nbsp;
 
+**Swipebox**
+> *A touchable jQuery lightbox*
+
+https://github.com/brutaldesign/swipebox
+
+&nbsp;
+
 **onScreen**
 > *A light library that does stuff when the matched elements enter or leave the viewport.*
 
