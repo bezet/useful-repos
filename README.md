@@ -44,3 +44,11 @@ https://github.com/janpaepke/ScrollMagic
 > *Lightweight, vanilla javascript parallax library.*
 
 https://github.com/dixonandmoe/rellax
+
+&nbsp;
+
+**SweetAlert2**
+> *A beautiful, responsive, customizable, accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.*
+
+https://github.com/limonte/sweetalert2
+
