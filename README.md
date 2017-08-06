@@ -1,3 +1,17 @@
+**baguetteBox.js**
+> *Simple and easy to use lightbox script.*
+
+https://github.com/feimosi/baguetteBox.js
+
+&nbsp;
+
+**wallop**
+> *wallop is a minimal 4kb library for showing & hiding things.*
+
+https://github.com/peduarte/wallop
+
+&nbsp;
+
 **FlexSlider**
 > *An awesome, fully responsive jQuery slider plugin.*
 
