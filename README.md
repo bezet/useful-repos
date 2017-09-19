@@ -19,6 +19,13 @@ https://github.com/woocommerce/FlexSlider
 
 &nbsp;
 
+**Swiper**
+> *Most modern mobile touch slider with hardware accelerated transitions.*
+
+https://github.com/nolimits4web/swiper/
+
+&nbsp;
+
 **lightbox2**
 > *Lightbox is small javascript library used to overlay images on top of the current page. It's a snap to setup and works on all modern browsers.*
 
